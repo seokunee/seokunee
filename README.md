@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&width=1000&text=Seokunee!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 <h1 align="center">Github Stats 😎</h1>
